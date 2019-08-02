@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\AutonomousDriving\\CNNscratch\\model_alexnet-2500"
+all_model_checkpoint_paths: "E:\\AutonomousDriving\\CNNscratch\\model_alexnet-2500"
