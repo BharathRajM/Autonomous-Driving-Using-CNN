@@ -1,2 +1,3 @@
 # Autonomous-Driving-Using-CNN
-Build a simulated environment in unity and train a CNN to drive a car within this environment.
+
+This project comprises of a simulated environment "Road Network" built with Unity3D and a Convolutiuonal Neural Network that is trained to drive a car autonomously on this environment.
